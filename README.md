@@ -33,7 +33,7 @@ Deploy it on your own server, or get a hosted account at http://phplist.com.
   <h3>Features</h3>
 </div>
 
-* Responsive web-based, and command-line interfaces
+* Responsive web-based, and command-line interfaces.
 * Real-time analytics: track message responses and subscriber behaviour
 * Message-queue management: load-balances and throttles multiple accounts and campaigns; tracks every delivery outcome
 * Content personalisation: every message customised to individual subscriber attributes and preferences
